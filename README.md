@@ -1,2 +1,3 @@
 # Tetris
-Tetris C++ 
+
+Tetris C++ but kinda simple and maybe bug
